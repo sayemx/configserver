@@ -1,0 +1,13 @@
+ 
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to Cards with QA Profile"
+  contactDetails:
+    name: qa profile
+    email: qa@example.com
+  onCallSupport:
+   - 555-555-555
+   - 888-888-888
+

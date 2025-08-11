@@ -1,0 +1,15 @@
+      
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to Accounts app"
+  contactDetails:
+    name: John Doe
+    email: jhn@example.com
+  onCallSupport:
+   - 555-555-555
+   - 888-888-888
+
+
+
