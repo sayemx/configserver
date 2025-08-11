@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to Cards app with PROD Profile"
+  message: "Welcome to Cards app with PRODuction Profile"
   contactDetails:
     name: Prod Profile
     email: prod@example.com

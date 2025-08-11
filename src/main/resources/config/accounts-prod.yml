@@ -3,9 +3,9 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Accounts app of Prod"
+  message: "Welcome to Accounts app of Production"
   contactDetails:
-    name: Johny Doe
+    name: Prod Profile
     email: johny@example.com
   onCallSupport:
    - 955-955-955
